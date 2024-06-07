@@ -5,7 +5,6 @@ Table of Contents
 - Features
 - Data Collection
 - Model Description
-- Project Structure
 - Future Work
 - Contributing
   
