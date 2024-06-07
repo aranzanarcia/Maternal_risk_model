@@ -6,7 +6,6 @@ Table of Contents
 - Data Collection
 - Model Description
 - Future Work
-- Contributing
   
 ### Introduction
 Maternal Risk Prediction is a web application that predicts the risk level for pregnant women based on certain health metrics. The application uses Random Forest Classifier model to analyze these metrics and provide personalized advice to help mitigate potential risks.
@@ -36,8 +35,6 @@ The project uses a Random Forest Classifier trained on a dataset with various he
 - Enhance the advice generation to cover a broader range of potential health scenarios.
 - Implement user authentication and data storage for personalized health tracking.
 
-### Contributions
-Contributions are welcome, however for personal reasons the code is not being displayed publicly in this repository, but I can happily share it with anyone who asks for it.
 
 ![Captura de pantalla (72)](https://github.com/aranzanarcia/Maternal_risk_model/assets/165634773/aa29b7cc-1b8d-46ca-b8b4-284967e6d829)
 ![Captura de pantalla (73)](https://github.com/aranzanarcia/Maternal_risk_model/assets/165634773/2131a4e4-e3eb-435f-b1fa-08385d2d3ac6)
